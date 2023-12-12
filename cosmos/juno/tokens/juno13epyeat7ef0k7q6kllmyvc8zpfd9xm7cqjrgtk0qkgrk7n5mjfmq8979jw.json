@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno13epyeat7ef0k7q6kllmyvc8zpfd9xm7cqjrgtk0qkgrk7n5mjfmq8979jw",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/poil.png",
+  "metadata": {
+    "name": "POIL token",
+    "symbol": "POIL",
+    "decimals": 6
+  }
+}
